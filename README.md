@@ -1,6 +1,6 @@
 # AMPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![Screenshot 2025-03-17 144407](https://github.com/user-attachments/assets/f9534e1a-8aca-42f4-b326-a7c56845d534)
+![Screenshot 2025-03-17 144407](https://github.com/user-attachments/assets/f9534e1a-8aca-42f4-b326-a7c56845d53432)
 
 
 # What is AMPhish?
